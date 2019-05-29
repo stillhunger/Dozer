@@ -14,8 +14,9 @@
 
 ## 🚀 Dozer
 Dozer lets you hide status bar icons to give your Mac a cleaner look.
+> Please note that Dozer is not open source, but free.
 
-###### You might also like [FiScript](https://github.com/Mortennn/FiScript) which lets you execute custom scripts on your files/folders from the context menu in Finder.
+
 <p align="center">
 	<img height="100" min-width="100" src="https://github.com/Mortennn/Dozer/raw/master/demo/demo.gif" alt="desktop-image">
 </p>
